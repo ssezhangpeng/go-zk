@@ -2,7 +2,7 @@ package operate
 
 import (
 	"fmt"
-	"github/ssezhangpeng/go-zk/connect"
+	"github.com/ssezhangpeng/go-zk/connect"
 )
 
 func delete(path string) error {

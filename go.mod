@@ -1,4 +1,4 @@
-module github/ssezhangpeng/go-zk
+module github.com/ssezhangpeng/go-zk
 
 go 1.17
 

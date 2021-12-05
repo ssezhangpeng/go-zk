@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/go-zookeeper/zk"
-	"github/ssezhangpeng/go-zk/connect"
+	"github.com/ssezhangpeng/go-zk/connect"
 )
 
 func update(path string, data interface{}) error {

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/go-zookeeper/zk"
-	"github/ssezhangpeng/go-zk/connect"
+	"github.com/ssezhangpeng/go-zk/connect"
 )
 
 // CreatePersistNode 创建持久节点

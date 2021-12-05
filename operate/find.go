@@ -3,7 +3,7 @@ package operate
 import (
 	"fmt"
 	"github.com/go-zookeeper/zk"
-	"github/ssezhangpeng/go-zk/connect"
+	"github.com/ssezhangpeng/go-zk/connect"
 )
 
 func find(path string) (result []byte, state *zk.Stat, err error) {
